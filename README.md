@@ -7,3 +7,6 @@ This is the first assignment for the students to get familiar with the GitHub an
 
 ## Assignment 2
 This is the second assignment for the students to get familiar with the GitHub and Markdown.
+
+## Assignment 3
+This is the third assignment for the students to get familiar with the GitHub and Markdown.
